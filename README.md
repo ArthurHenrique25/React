@@ -8,3 +8,8 @@
 
 ### npm start
 
+
+## instalar o css componentes
+
+### npm install styled-components
+
