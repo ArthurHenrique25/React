@@ -2,8 +2,9 @@
 
 ## instalar dependencias
 
-### npm install react-router-dom
+### npx create-react-app nome-do-seu-app
 
-## importar as rotas
+### cd nome-do-seu-app
 
-### import { BrowserRouter, Routes, Route } from "react-router-dom" 
+### npm start
+
